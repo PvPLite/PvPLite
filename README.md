@@ -1,6 +1,8 @@
 # PvPLite
-All builds of PvPLite:
-1.7.10
+PvPLite Builds:
+
+[1.7.10](https://github.com/applesfruit/PvPLite-Client-1.7.10)
+
 1.8.9
 
 # License
